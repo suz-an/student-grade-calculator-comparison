@@ -40,4 +40,8 @@ public class StudentGradeCalculator {
         }
         return sum / grades.size();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7ba963497fd04a5cc64a80ac6ca4b84f25bc241a
